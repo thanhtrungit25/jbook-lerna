@@ -1,6 +1,6 @@
 {
   "name": "jsnote-tdg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "files": [
     "dist"
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsnote-tdg/local-client": "^1.0.1"
+    "@jsnote-tdg/local-client": "^1.0.2"
   },
   "devDependencies": {
-    "@jsnote-tdg/local-api": "^1.0.1",
+    "@jsnote-tdg/local-api": "^1.0.2",
     "@types/node": "^15.12.3",
     "commander": "^7.2.0",
     "esbuild": "0.8.26",
