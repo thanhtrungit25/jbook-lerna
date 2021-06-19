@@ -1,6 +1,6 @@
 {
   "name": "@jsnote-tdg/local-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -23,7 +23,7 @@
     "typescript": "^4.3.4"
   },
   "dependencies": {
-    "@jsnote-tdg/local-client": "^1.0.0",
+    "@jsnote-tdg/local-client": "^1.0.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "http-proxy-middleware": "^2.0.0"
