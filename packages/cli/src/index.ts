@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env node --max-old-space-size=4096
 import { program } from 'commander'
 import { serveCommand } from './commands/serve'
 
